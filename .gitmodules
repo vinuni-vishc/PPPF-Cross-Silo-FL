@@ -1,0 +1,9 @@
+[submodule "DataLens"]
+	path = DataLens
+	url = https://github.com/AI-secure/DataLens.git
+[submodule "leaf"]
+	path = leaf
+	url = https://github.com/TalwalkarLab/leaf.git
+[submodule "NIID_Bench"]
+	path = NIID_Bench
+	url = https://github.com/Xtra-Computing/NIID-Bench
